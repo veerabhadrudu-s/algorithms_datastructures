@@ -1,2 +1,2 @@
-# algorithms_datastructures
-Algorithms and Datastructures
+# Algorithms and Datastructures
+Algorithms and Datastructures code written using Java
